@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Awesome I am a Nodejs and Reactjs Mentor 👋
 
 <!--
 **wonderfulolanrewaju/wonderfulolanrewaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
